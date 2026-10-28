@@ -9,7 +9,7 @@ pipeline {
 
     environment {
         SONAR_URL = 'http://13.233.72.185:9000'
-        DOCKER_IMAGE_NAME = 'abhishekf5/ultimate-cicd'
+        DOCKER_IMAGE_NAME = 'subbupractice/ultimate-cicd'
     }
 
     stages {
